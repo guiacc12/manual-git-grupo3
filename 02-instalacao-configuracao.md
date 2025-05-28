@@ -40,3 +40,23 @@ No Terminal (ou Git Bash), digite:
 
 bash
 git --version
+///////////////////////////////////////////
+Configurações Iniciais Essenciais:
+
+primeiramente você precisa informar seu nome ao git, use esse comando
+
+exemplo:
+git config --global user.name "Seu Nome Completo"
+
+logo em seguida o seu email, use esse comando
+
+exemplo:
+git config --global user.email "seu.email@example.com"
+
+e para verificar se tudo está em ordem use esse comando
+git config --list
+
+algo importante é configurar a branch principal para 'main' em novos projetos
+
+exemplo:
+git config --global init.defaultBranch main
