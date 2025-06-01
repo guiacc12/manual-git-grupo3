@@ -5,7 +5,6 @@
 - Guilherme A. C. Carrera - (https://github.com/guiacc12)
 - Felipe Nascimento - (https://github.com/piqueno1)
 - Victor Caitano - (https://github.com/CAITANO19)
-- Nome - (https://github.com/)
 
 ## Índice
 
